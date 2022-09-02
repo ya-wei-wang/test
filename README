@@ -1,0 +1,6 @@
+1.初始化　git init
+2.创建文本文件　ＲＥＡＤＭＥ
+3.将文本文件加入暂存区　git add README
+4.将文件提交到ｇｉｔ仓库　git commit -m "add a readme file"
+
+
