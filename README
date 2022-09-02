@@ -3,4 +3,6 @@
 3.将文本文件加入暂存区　git add README
 4.将文件提交到ｇｉｔ仓库　git commit -m "add a readme file"
 
+#回去
+1.从仓库ＨＥＡＤ　回到暂存区	git reset
 
