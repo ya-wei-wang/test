@@ -4,5 +4,15 @@
 4.将文件提交到ｇｉｔ仓库　git commit -m "add a readme file"
 
 #回去
-1.从仓库ＨＥＡＤ　回到暂存区	git reset
+1.从仓库HEAD回到暂存区	git reset HEAD README　 
+ 取消了之前add添加
+2.
 
+#分支
+1.创建分支并切到该分支下　　git branch -b NAME
+2.删除分支　git branch -d NAME
+3.切换分支　git checkout NAME
+4.合并分支　git merge NAME
+
+#工作区与暂存区文件差异
+  git diff
